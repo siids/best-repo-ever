@@ -6,4 +6,5 @@ This is the next sentence. Followed by another sentence.
 
 This sentence has a **bold** word in it.
 
+This sentence was added for new-branch-2
 This sentence was added for new-branch-1
